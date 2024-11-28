@@ -1,0 +1,38 @@
+{
+    "intents":[
+      {
+        "tag": "search",
+        "patterns":[
+          
+        ],
+        "responses":[
+          
+        ]
+      },
+      {
+        "tag": "weather",
+        "patterns":[
+          
+        ],
+        "responses":[
+          "My name is Nino Nakano :3",
+          "Call me Nino Nakano, or just Nino ;)",
+          "Nino Nakano is my full name!"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns":[
+          "Bye",
+          "I need to leave now",
+          "See you again",
+          "cya"
+        ],
+        "responses":[
+          "Ok bye <3",
+          "Yes sir, hope to see u again!!",
+          "Mata neeeee :'>"
+        ]
+      }
+    ]
+  }
